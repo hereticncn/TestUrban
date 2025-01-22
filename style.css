@@ -378,7 +378,7 @@ color: #231815;
   gap: 39px;
 
   @media (max-width: 1600px){
-    gap: 25px;
+    gap: 20px;
   }
 
   @media (max-width: 580px){
@@ -498,7 +498,7 @@ color: #231815;
   background: #F5F5F5;
   border-radius: 20px;
   @media (max-width: 1600px){
-    width: 288px;
+    width: 287px;
     height: 429px;
   }
   @media (max-width: 1300px){
